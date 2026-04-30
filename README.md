@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![laohutongzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=laohutongzhi&theme=dark&show_icons=true)](https://github.com/laohutongzhi/laohutongzhi)
+
 <!--
 **laohutongzhi/laohutongzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
